@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CompanyService/CompanyService/pom.xml" />
+        <option value="$PROJECT_DIR$/DepartmentsService/DepartmentsService/pom.xml" />
+        <option value="$PROJECT_DIR$/Service-Registry (1)/Service-Registry/pom.xml" />
+        <option value="$PROJECT_DIR$/APIGateway/APIGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigServer/ConfigServer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
