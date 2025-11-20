@@ -22,4 +22,7 @@ public class Company
     private String email;
 
     private String departmentsCode;
+
+    public void added(){
+        System.out.println("newly joined !!");}
 }
